@@ -19,7 +19,6 @@
 
 ---
 Welcome to my GitHub! I am a passionate developer focused on building secure systems, optimizing complex algorithms, and training deep learning models. Whether I'm contributing to core mathematical libraries or grinding out competitive programming problems, I love tackling tough technical challenges.
-Welcome to my GitHub! I am a passionate developer focused on building secure systems, optimizing complex algorithms, and training deep learning models. Whether I'm contributing to core mathematical libraries or grinding out competitive programming problems, I love tackling tough technical challenges.
 
 ### 🚀 About Me
 
