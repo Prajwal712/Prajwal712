@@ -1,8 +1,25 @@
-# Hi there, I'm Prajwal Pathade! 👋
+<h1 align="center">Hi there, I'm Prajwal Pathade 👋</h1>
 
-A passionate Computer Science & Engineering student focused on building secure, optimized, and intelligent systems. I specialize in symbolic mathematics, advanced cryptography, and spatio-temporal deep learning.
+<h3 align="center">Computer Science & Engineering Undergrad @ IIT Jodhpur | Open Source Contributor | Machine Learning & Security Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwal-pathade-46a599315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Prajwal_Pathade7/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/prajwal7" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/tidy_shop_49" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
 ---
+Welcome to my GitHub! I am a passionate developer focused on building secure systems, optimizing complex algorithms, and training deep learning models. Whether I'm contributing to core mathematical libraries or grinding out competitive programming problems, I love tackling tough technical challenges.
+Welcome to my GitHub! I am a passionate developer focused on building secure systems, optimizing complex algorithms, and training deep learning models. Whether I'm contributing to core mathematical libraries or grinding out competitive programming problems, I love tackling tough technical challenges.
 
 ### 🚀 About Me
 
@@ -33,17 +50,11 @@ Prajwal712's Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal712&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
-### 🏆 Coding Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prajwal712&theme=tokyonight&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
 ### 🤝 Let's Connect!
 
 - 📧 **Email:** prajwalpathade7@gmail.com
-- 💼 **LinkedIn:** [prajwal-pathade-46a599315](https://linkedin.com/in/prajwal-pathade-46a599315)
-- 🌐 **Portfolio:** [prajwal712.github.io](https://prajwal712.github.io)
+- 💼 **LinkedIn:** [prajwal-pathade](https://linkedin.com/in/prajwal-pathade)
+- 🌐 **Portfolio:** [prajwal-pathade](https://portfolio-website-coral-one-73.vercel.app/)
